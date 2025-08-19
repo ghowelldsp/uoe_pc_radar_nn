@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Pulse Compression Radar NN
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: George
+    family-names: Howell
+    email: georgehowelldsp@gmail.com
+    affiliation: University of Edinburgh
+identifiers:
+  - type: url
+    value: 'https://github.com/ghowelldsp/uoe_pc_radar_nn'
+repository-code: 'https://github.com/ghowelldsp/uoe_pc_radar_nn'
+abstract: A Pulse Compression Radar Neural Network
+keywords:
+  - Pulse Compression Radar
+  - Neural Network
+license: MIT
